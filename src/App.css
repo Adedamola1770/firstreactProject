@@ -1,0 +1,16 @@
+.body-1{
+    border-radius: 10px;
+}
+
+.div-2{
+    border-radius: 20px;
+}
+.button{
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+}
+.para{
+    font-size: 20px;
+    font-weight: bold;
+}
